@@ -1,0 +1,7 @@
+C:\Users\daani\source\repos\lista_atp_10\Q_01\bin\Debug\Q_01.exe.config
+C:\Users\daani\source\repos\lista_atp_10\Q_01\bin\Debug\Q_01.exe
+C:\Users\daani\source\repos\lista_atp_10\Q_01\bin\Debug\Q_01.pdb
+C:\Users\daani\source\repos\lista_atp_10\Q_01\obj\Debug\Q_01.csproj.AssemblyReference.cache
+C:\Users\daani\source\repos\lista_atp_10\Q_01\obj\Debug\Q_01.csproj.CoreCompileInputs.cache
+C:\Users\daani\source\repos\lista_atp_10\Q_01\obj\Debug\Q_01.exe
+C:\Users\daani\source\repos\lista_atp_10\Q_01\obj\Debug\Q_01.pdb
