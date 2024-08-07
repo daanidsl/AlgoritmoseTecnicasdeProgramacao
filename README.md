@@ -4,3 +4,5 @@
 - Estruturas Condicionais e de Repetição (switch e while): lista_atp_03
 - Estruturas de Repetição (for e do-while): lista_atp_04
 - Vetores: lista_atp_05
+- Matrizes: lista_atp_06
+- Vetores e Matrizes: lista_atp_07
