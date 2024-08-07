@@ -1,4 +1,4 @@
-##Exercícios - Algoritmos e Técnicas de Programação##
+# Exercícios - Algoritmos e Técnicas de Programação
 
 - Estruturas condicionais (if, else, else if): lista_atp_02
 - Estruturas Condicionais e de Repetição (switch e while): lista_atp_03
