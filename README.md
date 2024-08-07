@@ -6,3 +6,5 @@
 - Vetores: lista_atp_05
 - Matrizes: lista_atp_06
 - Vetores e Matrizes: lista_atp_07
+- Modularização: lista_atp_08
+- Strings: lista_atp_09
