@@ -8,3 +8,5 @@
 - Vetores e Matrizes: lista_atp_07
 - Modularização: lista_atp_08
 - Strings: lista_atp_09
+- Arquivos: lista_atp_10
+- Classes: lista_atp_11
